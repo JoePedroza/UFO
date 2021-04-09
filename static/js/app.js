@@ -73,4 +73,3 @@ function updateFilters(e) {
   
   // Build the table when the page loads
   buildTable(tableData);
-
